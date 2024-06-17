@@ -1,3 +1,5 @@
+# Use python=3.9 for smooth installation
+
 pandas
 mlflow==2.2.2
 notebook
